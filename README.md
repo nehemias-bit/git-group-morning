@@ -1,5 +1,8 @@
 # git-group-morning
 
 ```javascript
-const name = 'Raul Jiminian'
+const raulsName = 'Raul Jiminian'
 ```
+
+const name = 'Nehemias Cruz'
+
